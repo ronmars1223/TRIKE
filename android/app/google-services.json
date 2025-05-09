@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118396784932",
+    "project_id": "capstone-33ff5",
+    "storage_bucket": "capstone-33ff5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118396784932:android:bb0738de58e64ec8b623b1",
+        "android_client_info": {
+          "package_name": "com.example.capstone_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_cQL_sPHvOJD7ChzwKO2TQNsD2YKQGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
