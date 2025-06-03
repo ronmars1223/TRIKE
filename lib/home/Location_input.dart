@@ -871,7 +871,7 @@ class _LocationInputPageState extends State<LocationInputPage> {
                         child: ElevatedButton(
                           onPressed: _confirmLocation,
                           style: ElevatedButton.styleFrom(
-                            primary: Colors.blue,
+                            backgroundColor: Colors.blue,
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(10),
                             ),

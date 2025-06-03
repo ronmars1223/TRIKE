@@ -254,7 +254,7 @@ class _QRScannerPageState extends State<QRScannerPage> {
                   icon: Icon(Icons.navigate_next),
                   label: Text('Continue'),
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.green,
+                    backgroundColor: Colors.green,
                     padding: EdgeInsets.symmetric(vertical: 12),
                   ),
                 ),
